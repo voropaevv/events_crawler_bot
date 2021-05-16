@@ -1,0 +1,9 @@
+{
+  "api_id": "...",
+  "api_hash": "...",
+  "username": "...",
+  "bot_token": "...",
+  "chat_id_to_send_events": "...",
+  "chat_id_to_send_polls_results": "...",
+  "chat_id_to_send_polls": "..."
+}
